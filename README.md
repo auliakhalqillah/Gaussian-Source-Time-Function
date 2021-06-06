@@ -49,4 +49,4 @@ where the
  the orange line is the original gaussian function and the blue line is first derivative of gaussian function
  
  # Contact
- email: auliakhalqillah.mail@gmail.com
+[auliakhalqillah.mail@gmail.com](mailto:auliakhalqillah.mail@gmail.com)
